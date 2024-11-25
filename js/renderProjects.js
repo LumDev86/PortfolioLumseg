@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const projects = [
         {
-            title: "Proyecto Kramer Simulacion laboral NoCountry",
+            title: "Proyecto Kramer Simulación laboral NoCountry",
             description: "Decidimos crear Kramer, un E-commerce centrado en la venta de alimentos, donde el cliente tendrá la posibilidad de ver los productos disponibles, filtrarlos por categoría, precio o marca, y agregarlos al carrito para su posterior compra.",
             githubLink: "https://github.com/LumSeg/c21-08-ft-node-react",
             image: "./assets/ImgKramer.png",
