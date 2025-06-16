@@ -20,8 +20,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "devicon-django-plain",
             "devicon-postgresql-plain",
             "simple-icons:notion",
-            "devicon-discordjs-plain",
-            "devicon-postman-plain"
+            "simple-icons:discord",
+            "simple-icons:postman"
             ]
         },
         {
