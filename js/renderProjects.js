@@ -21,9 +21,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "devicon-postgresql-plain",
             "simple-icons:notion",
             "devicon-discordjs-plain",
-            "devicon-postman-plain",
-
-        ]
+            "devicon-postman-plain"
+            ]
         },
         {
             title: "Plataforma de E-Commerce Segunda Simulacion Laboral NoCountry",
