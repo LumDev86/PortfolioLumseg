@@ -14,8 +14,14 @@ document.addEventListener("DOMContentLoaded", function() {
         { name: "PostgresDB", iconClass: "devicon-postgresql-plain" },
         { name: "Docker", iconClass: "devicon-docker-plain" },
         { name: "Nest.js", iconClass: "devicon-nestjs-plain" },
-        { name: "MySQL", iconClass: "devicon-mysql-plain" }
-    ];
+        { name: "MySQL", iconClass: "devicon-mysql-plain" },
+        { name: "Jira", iconClass: "devicon-jira-plain" },           
+        { name: "Notion", iconClass: "simple-icons:notion" },        
+        { name: "Discord", iconClass: "devicon-discordjs-plain" },   
+        { name: "Postman", iconClass: "devicon-postman-plain" },     
+        { name: "Git", iconClass: "devicon-git-plain" },
+        { name: "GitHub", iconClass: "devicon-github-original" }
+        ];
 
     const techIconsContainer = document.getElementById("tech-icons");
 

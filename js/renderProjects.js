@@ -8,11 +8,22 @@ document.addEventListener("DOMContentLoaded", function() {
             technologies: ["devicon-mysql-plain", "devicon-typescript-plain", "devicon-express-original", "devicon-nodejs-plain", "devicon-nextjs-original", "devicon-tailwindcss-plain", "devicon-docker-plain"]
         },
         {
-            title: "Aplicación Full-Stack con Node.js",
-            description: "Esta aplicación permite crear por medio de un formulario la publicación de una película. Las tecnologías que se utilizaron para esta App son: HTML5, Bootstrap, JavaScript, Node.js, MongoDb y Express",
-            githubLink: "https://github.com/LumDev86/ProyectoN2-Henry",
-            image: "./assets/PM2.png",
-            technologies: ["devicon-nodejs-plain", "devicon-mongodb-plain", "devicon-javascript-plain", "devicon-html5-plain", "devicon-express-original", "devicon-bootstrap-plain"]
+            title: "Hackaton Play-Attention",
+            description: "Proyecto ganador del primer puesto en la hackatón Play-Attention, desarrollado por un equipo multidisciplinario de 11 personas. El cliente solicitó una solución integral compuesta por una landing page, un panel administrativo y un CRM. Me desempeñé como Project Manager, liderando la planificación, coordinación y seguimiento del equipo para cumplir los objetivos en tiempo y forma.",
+            githubLink: "https://github.com/No-Country-simulation/h5-01-play-attention",
+            image: "./assets/PlayAttention.png",
+            technologies: [
+            "devicon-nextjs-original",
+            "devicon-tailwindcss-plain",
+            "devicon-javascript-plain",
+            "devicon-python-plain",
+            "devicon-django-plain",
+            "devicon-postgresql-plain",
+            "simple-icons:notion",
+            "devicon-discordjs-plain",
+            "devicon-postman-plain",
+
+        ]
         },
         {
             title: "Plataforma de E-Commerce Segunda Simulacion Laboral NoCountry",
