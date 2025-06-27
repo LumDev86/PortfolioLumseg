@@ -16,12 +16,9 @@ document.addEventListener("DOMContentLoaded", function() {
         { name: "Nest.js", iconClass: "devicon-nestjs-plain" },
         { name: "MySQL", iconClass: "devicon-mysql-plain" },
         { name: "Jira", iconClass: "devicon-jira-plain" },           
-        { name: "Notion", iconClass: "simple-icons:notion" },
-        { name: "Discord", iconClass: "simple-icons:discord" },
-        { name: "Postman", iconClass: "simple-icons:postman" },   
         { name: "Git", iconClass: "devicon-git-plain" },
         { name: "GitHub", iconClass: "devicon-github-original" }
-        ];
+    ];
 
     const techIconsContainer = document.getElementById("tech-icons");
 
